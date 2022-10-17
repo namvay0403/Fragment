@@ -12,6 +12,8 @@ public class MainActivity extends FragmentActivity implements MainCallbacks{
     FragmentRed redFragment;
     FragmentBlue blueFragment;
 
+    //xin chào các bạn
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
