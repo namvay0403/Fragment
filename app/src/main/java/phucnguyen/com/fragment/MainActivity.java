@@ -31,6 +31,7 @@ public class MainActivity extends FragmentActivity implements MainCallbacks{
     }
 
     // hàm viết ở main, được gọi ở fragment red và blue -> gởi thông tin về main
+    // comment này của Minh
     @Override
     public void onMsgFromFragToMain(String sender, String strValue) {
 
