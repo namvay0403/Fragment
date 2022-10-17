@@ -12,7 +12,7 @@ public class MainActivity extends FragmentActivity implements MainCallbacks{
     FragmentRed redFragment;
     FragmentBlue blueFragment;
 
-    //xin chào các bạn
+    //xin chào các bạn, mình vừa thêm comment
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
